@@ -43,6 +43,7 @@ The MIT License (MIT)
 [SOA Patterns 1st Edition by Arnon Rotem-Gal-Oz - 2012](%5BSOA%20Patterns%201st%20Edition%20by%20Arnon%20Rotem-Gal-Oz%20-%202012%5D.pdf) [**Buy**](https://www.amazon.com/SOA-Patterns-Arnon-Rotem-Gal-Oz/dp/1933988266/ref=sr_1_fkmr1_1?s=digital-text&ie=UTF8&qid=1467569671&sr=8-1-fkmr1&keywords=SOA+Patterns+in+action)  
 [Patterns, Principles, and Practices of Domain-Driven Design Kindle Edition by Scott Millett - 2015](%5BPatterns%2C%20Principles%2C%20and%20Practices%20of%20Domain-Driven%20Design%20Kindle%20Edition%20by%20Scott%20Millett%20-%202015%5D.pdf) [**Buy**](https://www.amazon.com/Patterns-Principles-Practices-Domain-Driven-Design-ebook/dp/B00XLYUA0W/ref=mt_kindle?_encoding=UTF8&me=#nav-subnav)  
 [xUnit Test Patterns: Refactoring Test Code (Addison-Wesley Signature Series (Fowler)) Kindle Edition by Gerard Meszaros - 2007](%5BxUnit%20Test%20Patterns%20Refactoring%20Test%20Code%20(Addison-Wesley%20Signature%20Series%20(Fowler))%20Kindle%20Edition%20by%20Gerard%20Meszaros%20-%202007%5D.pdf) [**Buy**](https://www.amazon.com/xUnit-Test-Patterns-Refactoring-Addison-Wesley-ebook/dp/B004X1D36K/ref=mt_kindle?_encoding=UTF8&me=#nav-subnav)  
+[ZeroMQ Kindle Edition by Faruk Akgul - 2013](%5BZeroMQ%20Kindle%20Edition%20by%20Faruk%20Akgul%20-%202013%5D.pdf) [**Buy**](https://www.amazon.com/ZeroMQ-Faruk-Akgul-ebook/dp/B00BN4P88Q/ref=sr_1_4?s=digital-text&ie=UTF8&qid=1471106146&sr=1-4&keywords=ZeroMQ)  
 
 ## Programming paradigms
 
