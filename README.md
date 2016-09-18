@@ -71,3 +71,7 @@ The MIT License (MIT)
 [XSLT Cookbook (Cookbooks (O'Reilly)) Kindle Edition by Sal Mangano - 2006](%5BXSLT%20Cookbook%20(Cookbooks%20(O'Reilly))%20Kindle%20Edition%20by%20Sal%20Mangano%20-%202006%5D.pdf) [**Buy**](https://www.amazon.com/XSLT-Cookbook-Cookbooks-OReilly-Mangano-ebook/dp/B0028PL5D6/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1471105431&sr=8-1)  
 [XSLT Kindle Edition by Doug Tidwell - 2008](%5BXSLT%20Kindle%20Edition%20by%20Doug%20Tidwell%20-%202008%5D.pdf) [**Buy**](https://www.amazon.com/XSLT-Doug-Tidwell-ebook/dp/B0043D2DVO/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1471105541&sr=8-2)  
 [XQuery Search Across a Variety of XML Data 2nd Edition by Priscilla Walmsley - 2016](%5BXQuery%20Search%20Across%20a%20Variety%20of%20XML%20Data%202nd%20Edition%20by%20Priscilla%20Walmsley%20-%202016%5D.pdf) [**Buy**](https://www.amazon.com/XQuery-Search-Across-Variety-Data-ebook/dp/B018UXJ9GE/ref=mt_kindle?_encoding=UTF8&me=)  
+
+## Other
+
+[A Survey on Reactive Programming by Tom Van Cutsem - 2012](/%5BA%20Survey%20on%20Reactive%20Programming%20by%20Tom%20Van%20Cutsem%20-%202012%5D.pdf)  
